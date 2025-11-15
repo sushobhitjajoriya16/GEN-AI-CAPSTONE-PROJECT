@@ -46,6 +46,11 @@ AI-Job-Application-Assistant/ ├── README.md
 
 │ └── thumbnail.png
 
+└── examples/
+
+└── sample_outputs.json
+
+
 📈 Future Enhancements
 LinkedIn/Indeed job scraping
 
@@ -66,6 +71,4 @@ Note: You're free to use, share, and adapt this project with proper credit. Plea
 
 © 2025 Sushobhit Jajoriya. All rights reserved.
 
-└── examples/
 
-└── sample_outputs.json
